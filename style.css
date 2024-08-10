@@ -1,0 +1,511 @@
+.header {
+    height: 50px;
+    width: 3000px;
+    background-color: rgb(255, 255, 255);
+    display: block;
+}
+
+.radio {
+    height: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+    position: fixed;
+}
+
+.shield {
+    height: 60px;
+    margin-left: 30px;
+    margin-top: 40px;
+    position: fixed;
+}
+
+.para1 {
+    margin-left: 160px;
+    margin-top: 55px;
+    position: fixed;
+    font-size: 30px;
+    color: azure;
+}
+
+.chat {
+    height: 40px;
+    margin-left: 1050px;
+    margin-top: 40px;
+    position: fixed;
+}
+
+.people {
+    height: 40px;
+    margin-left: 1150px;
+    margin-top: 40px;
+    position: fixed;
+}
+
+p {
+    height: 40px;
+    margin-left: 1200px;
+    margin-top: 40px;
+    position: fixed;
+    font-size: 30px;
+}
+
+.hand {
+    height: 70px;
+    margin-left: 1280px;
+    margin-top: 30px;
+    position: fixed;
+}
+
+.para2 {
+    height: 40px;
+    margin-left: 1035px;
+    margin-top: 90px;
+    position: fixed;
+}
+
+.para3 {
+    height: 40px;
+    margin-left: 1135px;
+    margin-top: 90px;
+    position: fixed;
+}
+
+.para4 {
+    height: 40px;
+    margin-left: 1280px;
+    margin-top: 90px;
+    position: fixed;
+}
+
+.smile {
+    height: 100px;
+    margin-left: 1380px;
+    margin-top: 30px;
+    position: fixed;
+}
+
+.para5 {
+    height: 40px;
+    margin-left: 1395px;
+    margin-top: 90px;
+    position: fixed;
+}
+
+.view {
+    height: 40px;
+    margin-left: 1550px;
+    margin-top: 45px;
+    position: fixed;
+}
+
+.para6 {
+    height: 40px;
+    margin-left: 1540px;
+    margin-top: 95px;
+    position: fixed;
+}
+
+.notes {
+    height: 40px;
+    margin-left: 1700px;
+    margin-top: 40px;
+    position: fixed;
+}
+
+.para7 {
+    height: 40px;
+    margin-left: 1685px;
+    margin-top: 96px;
+    position: fixed;
+}
+
+.rooms {
+    height: 40px;
+    margin-left: 1828px;
+    margin-top: 45px;
+    position: fixed;
+}
+
+.para8 {
+    height: 40px;
+    margin-left: 1818px;
+    margin-top: 96px;
+    position: fixed;
+}
+
+.apps {
+    height: 40px;
+    margin-left: 1960px;
+    margin-top: 45px;
+    position: fixed;
+}
+
+.para9 {
+    height: 40px;
+    margin-left: 1950px;
+    margin-top: 96px;
+    position: fixed;
+}
+
+.more {
+    height: 60px;
+    margin-left: 2098px;
+    margin-top: -2px;
+    font-size: 80px;
+    position: fixed;
+}
+
+.para10 {
+    height: 40px;
+    margin-left: 2098px;
+    margin-top: 96px;
+    position: fixed;
+}
+
+.camera {
+    height: 40px;
+    margin-left: 2238px;
+    margin-top: 35px;
+    font-size: 80px;
+    position: fixed;
+}
+
+.para11 {
+    height: 40px;
+    margin-left: 2220px;
+    margin-top: 96px;
+    position: fixed;
+}
+
+.mute {
+    height: 40px;
+    margin-left: 2360px;
+    margin-top: 35px;
+    font-size: 80px;
+    position: fixed;
+}
+
+.para12 {
+    height: 30px;
+    margin-left: 2360px;
+    margin-top: 96px;
+    position: fixed;
+}
+
+.share {
+    height: 40px;
+    margin-left: 2490px;
+    margin-top: 35px;
+    font-size: 80px;
+    position: fixed;
+}
+
+.para13 {
+    height: 40px;
+    margin-left: 2482px;
+    margin-top: 96px;
+    position: fixed;
+}
+
+button {
+    color: white;
+    background-color: red;
+    font-size: 30px;
+    margin-left: 2600px;
+    margin-top: 50px;
+    width: 230px;
+    position: fixed;
+    height: 60px;
+}
+
+.shivamkumar {
+    height: 400px;
+    width: 600px;
+    background-image: radial-gradient(circle 311px at 8.6% 27.9%, rgba(62, 147, 252, 0.57) 12.9%, rgba(239, 183, 192, 0.44) 91.2%);
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 20px;
+    position: fixed;
+}
+
+.muraliganesh {
+    height: 400px;
+    width: 600px;
+    background-image: radial-gradient(circle 369px at -2.9% 12.9%, rgba(247, 234, 163, 1) 0%, rgba(236, 180, 238, 0.56) 46.4%, rgba(163, 203, 247, 1) 100.7%);
+    margin-left: 1110px;
+    margin-top: 100px;
+    border-radius: 20px;
+    position: fixed;
+}
+
+.gunaramarao {
+    height: 400px;
+    width: 600px;
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(235, 131, 130, 1) 0%, rgba(235, 131, 130, 0.75) 38.6%, rgba(211, 177, 125, 0.52) 72.1%, rgba(211, 177, 125, 0.24) 94.7%);
+    margin-left: 1720px;
+    margin-top: 100px;
+    border-radius: 20px;
+    position: fixed;
+}
+
+.nazmeen {
+    height: 400px;
+    width: 600px;
+    background-image: radial-gradient(circle 673px at 10% 20%, rgba(255, 220, 163, 1) 0%, rgba(129, 255, 239, 1) 48.5%, rgba(139, 172, 251, 1) 97.8%);
+    margin-left: 500px;
+    margin-top: 510px;
+    border-radius: 20px;
+    position: fixed;
+}
+
+.vinay {
+    height: 400px;
+    width: 600px;
+    background-image: radial-gradient(circle farthest-corner at 0.8% 3.1%, rgba(255, 188, 224, 1) 0%, rgba(170, 165, 255, 1) 46%, rgba(165, 255, 205, 1) 100.2%);
+    margin-left: 1110px;
+    margin-top: 510px;
+    border-radius: 20px;
+    position: fixed;
+}
+
+.giridhar {
+    height: 400px;
+    width: 600px;
+    background-image: linear-gradient(75.2deg, rgba(41, 196, 255, 1) -2.5%, rgba(255, 158, 211, 1) 55%, rgba(255, 182, 138, 1) 102.3%);
+    margin-left: 1720px;
+    margin-top: 510px;
+    border-radius: 20px;
+    position: fixed;
+}
+
+.kalyan {
+    height: 400px;
+    width: 600px;
+    background-image: linear-gradient(103deg, rgba(235, 225, 188, 1) 7.2%, rgba(232, 188, 234, 1) 57.5%, rgba(203, 209, 244, 1) 90.7%);
+    margin-left: 1110px;
+    margin-top: 920px;
+    border-radius: 20px;
+    position: fixed;
+}
+
+.sk {
+    background-image: linear-gradient(103deg, rgba(235, 225, 188, 1) 7.2%, rgba(232, 188, 234, 1) 57.5%, rgba(203, 209, 244, 1) 90.7%);
+    height: 200px;
+    width: 200px;
+    margin-left: 190px;
+    margin-top: 100px;
+    border-radius: 200px;
+    position: fixed;
+    box-shadow: 1px 2px black;
+}
+
+.mg {
+    height: 200px;
+    width: 200px;
+    margin-left: 190px;
+    margin-top: 100px;
+    border-radius: 200px;
+    position: fixed;
+    background-image: linear-gradient(75.2deg, rgba(41, 196, 255, 1) -2.5%, rgba(255, 158, 211, 1) 55%, rgba(255, 182, 138, 1) 102.3%);
+    box-shadow: 1px 2px black;
+}
+
+.gr {
+    height: 200px;
+    width: 200px;
+    margin-left: 190px;
+    margin-top: 100px;
+    border-radius: 200px;
+    position: fixed;
+    background-image: radial-gradient(circle 673px at 10% 20%, rgba(255, 220, 163, 1) 0%, rgba(129, 255, 239, 1) 48.5%, rgba(139, 172, 251, 1) 97.8%);
+    box-shadow: 1px 2px black;
+}
+
+.nm {
+    height: 200px;
+    width: 200px;
+    margin-left: 190px;
+    margin-top: 100px;
+    border-radius: 200px;
+    position: fixed;
+    background-image: radial-gradient(circle 369px at -2.9% 12.9%, rgba(247, 234, 163, 1) 0%, rgba(236, 180, 238, 0.56) 46.4%, rgba(163, 203, 247, 1) 100.7%);
+    box-shadow: 1px 2px black;
+}
+
+.vn {
+    height: 200px;
+    width: 200px;
+    margin-left: 190px;
+    margin-top: 100px;
+    border-radius: 200px;
+    position: fixed;
+    background-image: radial-gradient(circle 369px at -2.9% 12.9%, rgba(247, 234, 163, 1) 0%, rgba(236, 180, 238, 0.56) 46.4%, rgba(163, 203, 247, 1) 100.7%);
+    box-shadow: 1px 2px black;
+}
+
+.gd {
+    height: 200px;
+    width: 200px;
+    margin-left: 190px;
+    margin-top: 100px;
+    border-radius: 200px;
+    position: fixed;
+    background-image: linear-gradient(75.2deg, rgba(41, 196, 255, 1) -2.5%, rgba(255, 158, 211, 1) 55%, rgba(255, 182, 138, 1) 102.3%);
+    box-shadow: 1px 2px black;
+}
+
+.kn {
+    height: 200px;
+    width: 200px;
+    margin-left: 190px;
+    margin-top: 100px;
+    border-radius: 200px;
+    position: fixed;
+    background-image: linear-gradient(75.2deg, rgba(41, 196, 255, 1) -2.5%, rgba(255, 158, 211, 1) 55%, rgba(255, 182, 138, 1) 102.3%);
+    box-shadow: 1px 2px black;
+}
+
+.SK {
+    margin-left: 65px;
+    margin-top: 55px;
+    font-size: 60px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.MS {
+    margin-left: 62px;
+    margin-top: 55px;
+    font-size: 60px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.GR {
+    margin-left: 62px;
+    margin-top: 55px;
+    font-size: 60px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.N {
+    margin-left: 75px;
+    margin-top: 55px;
+    font-size: 60px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.VP {
+    margin-left: 62px;
+    margin-top: 55px;
+    font-size: 60px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.GM {
+    margin-left: 62px;
+    margin-top: 55px;
+    font-size: 60px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.K {
+    margin-left: 78px;
+    margin-top: 55px;
+    font-size: 60px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.shivam {
+    height: 40px;
+    width: 280px;
+    background-color: rgba(20, 20, 19, 0.59);
+    margin-left: -160px;
+    margin-top: 110px;
+    border-radius: 10px;
+    font-size: 30px;
+    position: fixed;
+    color: whitesmoke;
+}
+
+.murali {
+    height: 40px;
+    width: 280px;
+    background-color: rgba(12, 12, 3, 0.59);
+    margin-left: -160px;
+    margin-top: 110px;
+    border-radius: 10px;
+    font-size: 20px;
+    position: fixed;
+    color: whitesmoke;
+}
+
+.kalyann {
+    height: 40px;
+    width: 250px;
+    background-color: rgba(12, 12, 3, 0.59);
+    margin-left: -160px;
+    margin-top: 100px;
+    border-radius: 10px;
+    font-size: 25px;
+    color: whitesmoke;
+    position: fixed;
+}
+
+.giridharr {
+    height: 40px;
+    width: 300px;
+    background-color: rgba(12, 12, 3, 0.59);
+    margin-left: -160px;
+    margin-top: 110px;
+    border-radius: 10px;
+    font-size: 25px;
+    position: fixed;
+    color: whitesmoke;
+}
+
+.vinayy {
+    height: 40px;
+    width: 400px;
+    background-color: rgba(12, 12, 3, 0.59);
+    margin-left: -160px;
+    margin-top: 110px;
+    border-radius: 10px;
+    font-size: 20px;
+    position: fixed;
+    color: whitesmoke;
+}
+
+.nazmeenn {
+    height: 40px;
+    width: 280px;
+    background-color: rgba(12, 12, 3, 0.59);
+    margin-left: -160px;
+    margin-top: 110px;
+    border-radius: 10px;
+    font-size: 25px;
+    position: fixed;
+    color: whitesmoke;
+}
+
+.gunaa {
+    height: 40px;
+    width: 280px;
+    background-color: rgba(12, 12, 3, 0.59);
+    margin-left: -160px;
+    margin-top: 110px;
+    border-radius: 10px;
+    font-size: 20px;
+    position: fixed;
+    color: whitesmoke;
+}
+
+.gunaa {
+    height: 40px;
+    width: 280px;
+    background-color: rgba(12, 12, 3, 0.59);
+    margin-left: -160px;
+    margin-top: 110px;
+    border-radius: 10px;
+    font-size: 20px;
+    position: fixed;
+    color: whitesmoke;
+}
